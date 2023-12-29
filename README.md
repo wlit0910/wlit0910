@@ -1,6 +1,6 @@
 # Hi, I'm wlit0910 👋
 
-## About Me🧑🏼‍💻
+## About Me 🧑🏼‍💻
 
 <table>
   <tr>
@@ -8,16 +8,16 @@
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science**.
 
-🌱 I am currently learning **ASP.NET MVC** and also interested in **Back-end Development** and **Web Development**.
+🌱 I am currently learning **ASP.NET MVC** and also interested in **Back-end** and **Web Development**.
 
 🎯 My Goal is to finish my existing projects as fast as possible.
 
 ✨ I like to create different types of **contents** and helpful **engineering software**.
- <!--     
+     
   <td>
-      <a href=""><img src="" width="300" alt=""/></a>
+      <a href="https://github.com/wlit0910/"><img src="https://github.com/wlit0910/wlit0910/blob/main/github-header-image.png" width="170" alt="wlit0910 header image"/></a>
     </td>
-    -->
+    
   </tr>
   </table>
 
@@ -37,7 +37,8 @@
 -->
 
 
-### <h2 align="center">[My Projects Gallery📚](link)</h2>
+### <h2 align="center">[My Projects Gallery 📚](link)</h2>
+
 
 
 ## Click to see my Projects 📚

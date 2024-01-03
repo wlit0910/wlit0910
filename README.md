@@ -15,7 +15,7 @@
 ✨ I like to create different types of **contents** and helpful **engineering software**.
      
   <td>
-    <a href="https://app.daily.dev/wlit0910"><img src="https://api.daily.dev/devcards/6f61d8c1babf455f8ee2ed5a2b58bab4.png?r=n4t" width="400" alt="Weronika's Dev Card"/></a>
+    <a href="https://app.daily.dev/wlit0910"><img src="https://api.daily.dev/devcards/6f61d8c1babf455f8ee2ed5a2b58bab4.png?r=55a" width="400" alt="Weronika's Dev Card"/></a>
     <!--
       <a href="https://github.com/wlit0910/"><img src="https://github.com/wlit0910/wlit0910/blob/main/github-header-image.png" width="170" alt="wlit0910 header image"/></a>-->
     </td>

@@ -23,6 +23,8 @@
   </tr>
   </table>
 
+<br>
+<br>
 
 ## Technologies ⚙️
 
@@ -43,12 +45,13 @@
 
 [![wlitow0910's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlit0910)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
+<br>
+<br>
 
 ### <h2 align="center">[My Projects Gallery 📚](link)</h2>
 
-
+<br>
+<br>
 
 
 ## Click to see my Projects 📚
@@ -60,12 +63,9 @@
 <a href="" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></a> 
 <a href="" target="_blank"><img width="60" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a> 
 <a href="" target="_blank"><img width="40" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/></a> 
-
-
-
-
-
-
+<br>
+<br>
+<br>
 
 ## Connect With Me👋🏼
 
@@ -75,14 +75,17 @@
 <a href="" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 <p align="center">
 <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p>
+<br>
+<br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlit0910&layout=compact&theme=midnight-purple&card_width=400px)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wlit0910&repo=wlit0910&show_owner=true&layout=compact&theme=midnight-purple)](https://github.com/wlit0910/wlit0910)<br>
 [![wlit0910's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/wlit0910/github-readme-stats) -->
 
-
+[![wlit0910's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlit0910&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>

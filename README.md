@@ -58,7 +58,7 @@
 ## Click to see my Projects 📚
 
 <a href="https://github.com/wlit0910/Kalkulator-Inzyniera" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="Kalkulator Inżyniera"/></a> 
-<a href="https://github.com/wlit0910/Health-Center" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="Health Center ASP.NET"/></a>
+<a href="https://github.com/wlit0910/Health-Center-WL" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="Health Center ASP.NET"/></a>
 <a href="https://github.com/wlit0910/Joomla4_Centrum-Zdrowia" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="Joomla" title="Centrum Zdrowia Joomla"/></a> 
 <!--
 <a href="" target="_blank"> <img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="DotNetCore" title="DotNetCore"/></a>

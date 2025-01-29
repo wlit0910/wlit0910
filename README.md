@@ -98,6 +98,6 @@
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=wlit0910&label=Profile%20Views&color=12&icon=5&pretty=false" />
+  <img src="https://visitcountpro.netlify.app/api?id=wlit0910&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
 

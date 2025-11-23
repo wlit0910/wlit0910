@@ -113,7 +113,7 @@
   <img height=200 align="center" src="https://github-readme-stats-xi-rouge-97.vercel.app/api/top-langs/?username=wlit0910&layout=donut&theme=dark#gh-dark-mode-only&count_private=true&&hide=Rich Text Format" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-xi-rouge-97.vercel.app/api?username=wlit0910&show_icons=true&theme=dark#gh-dark-mode-only&height=200&layout=compact&langs_count=8&card_width=320&count_private=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats-xi-rouge-97.vercel.app/api?username=wlit0910&show_icons=true&theme=dark&count_private=true&include_all_commits=true&layout=compact&langs_count=8&card_width=320&v=2" />
 </a>
 
 </div>

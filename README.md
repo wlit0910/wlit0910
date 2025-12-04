@@ -6,7 +6,7 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Master's Degree in Computer Science**.
+🎓 I am currently pursuing my **Master's Degree in Bioinformatics**.
 
 🌱 I am currently learning **bioinformatics** and also interested in **Back-End** <br>and **Web Development**.
 

@@ -1,18 +1,18 @@
 # Hi, I'm wlit0910 👋
 
-## About Me 🧑🏼‍💻
+## About Me 👩🏻‍💻
 
 <table>
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my **Master's Degree in Bioinformatics**.
+🎓 Engineer from 2024, currently pursuing **Master's Degree in Bioinformatics**.
 
 🌱 I am currently learning **bioinformatics** and also interested in **Back-End** <br>and **Web Development**.
 
 🎯 My Goal is to finish my existing projects as fast as possible.
 
-✨ I like creating different types of **content** and helpful **engineering software** <br>and **bioinformatic pipelines**.
+✨ I like creating different types of content, **helpful software** <br>and **bioinformatic pipelines**.
      
   <td>
     <a href="https://app.daily.dev/wlit0910"><img src="https://api.daily.dev/devcards/6f61d8c1babf455f8ee2ed5a2b58bab4.png?r=55a" width="300" alt="Weronika's Dev Card"/></a>
@@ -40,7 +40,7 @@
 
 ### DevOps & Cloud Tools ⚒️
 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/VEED-B6FF60.svg?style=for-the-badge&logo=VEED&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/VEED-B6FF60.svg?style=for-the-badge&logo=VEED&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 <!--
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Atlassian-0052CC.svg?style=for-the-badge&logo=Atlassian&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -78,8 +78,8 @@
 ## Connect With Me👋🏼
 
 <p align="left">  
-<a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://orcid.org/my-orcid?orcid=0009-0000-4235-9394" target="blank"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/weronika-litowczenko-0334663a8/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://orcid.org/orcid-search/search?searchQuery=0009-0000-4235-9394" target="blank"><img src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white"/></a>
 <a href="https://www.researchgate.net/profile/Weronika-Litowczenko" target="blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
 <a href="https://app.daily.dev/wlit0910" target="blank"><img src="https://img.shields.io/badge/daily.dev-CE3DF3.svg?style=for-the-badge&logo=dailydotdev&logoColor=white"/></a>
 </p>

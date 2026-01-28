@@ -6,13 +6,13 @@
   <tr>
     <td valign="center">
       
-🎓 Engineer from 2024, currently pursuing **Master's Degree in Bioinformatics**.
+🎓 Engineer in CS from 2024, currently pursuing **Master's Degree in Bioinformatics**.
 
 🌱 I am currently learning **bioinformatics** and also interested in **Back-End** <br>and **Web Development**.
 
 🎯 My Goal is to finish my existing projects as fast as possible.
 
-✨ I like creating different types of content, **helpful software** <br>and **bioinformatic pipelines**.
+✨ I like creating different types of content, especially **helpful software** <br>and currently **bioinformatic pipelines**.
      
   <td>
     <a href="https://app.daily.dev/wlit0910"><img src="https://api.daily.dev/devcards/6f61d8c1babf455f8ee2ed5a2b58bab4.png?r=55a" width="300" alt="Weronika's Dev Card"/></a>

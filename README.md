@@ -8,7 +8,7 @@
       
 🎓 Engineer in CS from 2025, currently pursuing **Master's Degree in Bioinformatics**.
 
-🌱 I am currently learning **bioinformatics**, **data-science topics** and also interested<br> in **Back-End** and **Web Development**.
+🌱 I am currently learning **bioinformatics**, **data-science topics** and also interested in<br>**Back-End** and **Web Development**.
 
 🎯 My Goal is to finish my existing projects as fast as possible.
 

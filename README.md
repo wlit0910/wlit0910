@@ -87,6 +87,42 @@
 <br>
 <br>
 <br>
+
+## Research 🧬
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Genomic characterization of resistant and relapsed adult B-cell acute lymphoblastic leukemia</h3>
+      <p><i>Human Genetics • Original Paper<br>Published: 26 March 2026</i></p>
+      <p align="justify">
+        This study investigates the genomic landscape of resistant and relapsed B-cell acute lymphoblastic leukemia in adults, identifying key mutations and pathways associated with treatment failure. The findings contribute to better understanding of disease progression and potential therapeutic targets.
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="img" width="250"/>
+    </td>
+  </tr>
+</table>
+<!-- TEMPLATE FOR NEXT PUBLICATIONS -->
+<!--
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TITLE</h3>
+      <p><i>JOURNAL • TYPE<br>DATE</i></p>
+      <p>Short abstract...</p>
+    </td>
+    <td width="50%" align="center">
+      <img src="img" width="250"/>
+    </td>
+  </tr>
+</table>
+-->
+
+<br>
+<br>
+<br>
 <br>
 <p align="center">
 <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />

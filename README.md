@@ -94,13 +94,22 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Genomic characterization of resistant and relapsed adult B-cell acute lymphoblastic leukemia</h3>
-      <p><i>Human Genetics • Original Paper<br>Published: 26 March 2026</i></p>
+      <p><i>Human Genetics • Original Paper</i>&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp<i>Published: 26 March 2026</i></p>
       <p align="justify">
         This study investigates the genomic landscape of resistant and relapsed B-cell acute lymphoblastic leukemia in adults, identifying key mutations and pathways associated with treatment failure. The findings contribute to better understanding of disease progression and potential therapeutic targets.
       </p>
+      <p style="font-size: 0.9em; margin-top: 8px;" align="justify;">
+  <b>My contribution:</b> Analysis and interpretation of genomic data, including statistical evaluation, visualization, and critical review.
+     </p>
+      <p style="font-size: 0.9em; margin-top: 6px;">
+      <b>DOI:</b> 
+      <a href="https://doi.org/10.1007/s13353-026-01057-8" target="_blank">
+        https://doi.org/10.1007/s13353-026-01057-8
+      </a>
+     </p>
     </td>
-    <td width="50%" align="center">
-      <img src="img" width="250"/>
+    <td width="30%" align="center">
+      <img src="https://github.com/wlit0910/wlit0910/blob/main/p1.png" width="250"/>
     </td>
   </tr>
 </table>
@@ -119,7 +128,6 @@
   </tr>
 </table>
 -->
-
 <br>
 <br>
 <br>

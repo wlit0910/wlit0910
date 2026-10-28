@@ -140,7 +140,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wlit0910&repo=wlit0910&show_owner=true&layout=compact&theme=midnight-purple)](https://github.com/wlit0910/wlit0910)<br>
 [![wlit0910's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/wlit0910/github-readme-stats) -->
 
-[![wlit0910's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlit0910&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![wlit0910's GitHub activity graph](https://github-act-graph.rodriaum.com/graph?username=wlit0910&bg_color=011627&color=c792ea&line=c792ea&point=f7ffd1&area=true&hide_border=true&type=gradient)](https://github.com/wlit0910)
 <br>
 
 <div align="center">
